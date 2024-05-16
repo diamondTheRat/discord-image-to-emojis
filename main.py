@@ -11,9 +11,9 @@ import time
 discord_token = "YOUR TOKEN" # dont share this with anyone u dum dum rat
 
 
-image_name = "img_2.png"
-channel_id = "1240789634494103756"
-guild_id = "1240789634494103753" # you need permissions to manage emojis
+image_name = "image.png" # the image you want to convert, probably only works with png
+channel_id = "channel id"
+guild_id = "guild id" # you need permissions to manage emojis
 delete_all_emojis = False # this deletes the emojis from the server
 
 # the limit for this is a bit bigger than 50 for width and not that limited for height
